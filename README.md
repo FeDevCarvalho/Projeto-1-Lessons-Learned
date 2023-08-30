@@ -30,3 +30,7 @@
 8. Crie um artigo sobre seu aprendizado:
 - O artigo deverá possuir mais de 300 caracteres e menos de 600
 - Deve possuir a tag article.
+
+9. Crie uma seção que conta uma passagem sobre seu aprendizado:
+- A seção deverá possuir mais de 100 caracteres e menos de 300.
+- Deve possuir a tag aside.
