@@ -10,3 +10,6 @@
 
 3. Adicione uma foto sua à página:
 - A foto deve ser inserida utilizando uma tag img com o ID "minha_foto".
+
+4. Adicione uma lista de lições aprendidas à página:
+- A lista deve possuir 10 itens, ser numerada e possuir o ID "licoes_aprendidas".
