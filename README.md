@@ -16,3 +16,6 @@
 
 5. Crie uma lista de lições que ainda deseja aprender para a página:
 - A lista deve possuir 10 itens, não ser numerada e possuir o ID "licoes_a_aprender".
+
+6. Adicione um rodapé para a página:
+- O rodapé deve utilizar a tag footer e possuir o ID "rodape".
