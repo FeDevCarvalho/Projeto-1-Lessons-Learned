@@ -19,3 +19,6 @@
 
 6. Adicione um rodapé para a página:
 - O rodapé deve utilizar a tag footer e possuir o ID "rodape".
+
+7. Insira pelo menos um link externo na página:
+- A configuração desse link deve ser feita para abrir em uma nova aba do navegador
